@@ -14,12 +14,12 @@ function App() {
           شخصي مجانا
         </h2>
       </div>
-      <h2 className="text-xl md:pt-[200px] pt-[30px] md:text-8xl text-center py-16 text-white-A700">
+      <h2 className="text-xl md:pt-[200px]  md:text-8xl text-center pt-[12%] text-white-A700">
         ثبت التطبيق الان مجانا
       </h2>
 
       <p
-        className="mx-auto text-[17px] md:text-[60px] text-center text-white-A700 md:pt-[820px] pt-[180px]"
+        className="mx-auto text-[17px] md:text-[60px] text-center text-white-A700 md:pt-[820px] pt-[63%]"
         size="txtHarmattanBold70"
       >
         <span className="text-white-A700 font-harmattan font-bold">
@@ -33,7 +33,7 @@ function App() {
         </span>
       </p>
 
-      <div className="grid grid-cols-4 font-poppins md:gap-16 gap-5 items-center justify-between md:pt-[200px] pt-[40px] w-full px-[5%]">
+      <div className="grid grid-cols-4 font-poppins md:gap-16 gap-5 items-center justify-between md:pt-[200px] pt-[13%] w-full px-[5%]">
         <span
           className="text-[8px] md:text-[24px] text-center text-white-A700_87"
           size="txtPoppinsRegular24"
@@ -102,7 +102,7 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="md:pt-[25%] md:pr-[20%] pr-[18%] flex flex-col gap-1 mt-[23%] ">
+      <div className="md:pt-[25%] md:pr-[20%] pr-[18%] flex flex-col gap-1 mt-[32%] ">
         <div
           className="md:right-[11%] md:text-[38px] text-[11px] text-right text-white-A700 "
           size="txtHarmattanBold40"
