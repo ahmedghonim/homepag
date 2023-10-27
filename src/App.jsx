@@ -140,7 +140,7 @@ function App() {
           شاهد تقدمك ومستواك عبر الاحصائيات اليوميه والشهريه
         </div>
         <div
-          className="text-xl md:text-[38px] text-[11px] text-right text-white-A700 w-full"
+          className="md:text-[38px] text-[11px] text-right text-white-A700 w-full"
           size="txtHarmattanBold40"
         >
           راقب تقدم اوزانك في التدريب واحسب تطور الوزن في كل جلسة
