@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <img src="/images/Frame.png" alt="Figma" className="absolute -z-10" />
+      <img src="/images/Frame-min.png" alt="Figma" className="absolute -z-10" />
       <h1 className="pt-[50px] pr-[110px] md:pr-[450px] md:pt-[190px] m-auto text-5xl md:text-[170px] text-center text-white-A700_ab">
         تطبيق المدرب <br />
         الشخص
