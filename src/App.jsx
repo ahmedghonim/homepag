@@ -102,7 +102,7 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="md:pt-[25%] md:pr-[20%] pr-[18%] flex flex-col gap-1 mt-[32%] ">
+      <div className="md:pt-[25%] md:pr-[20%] pr-[18%] flex flex-col gap-1 mt-[16%] ">
         <div
           className="md:right-[11%] md:text-[38px] text-[11px] text-right text-white-A700 "
           size="txtHarmattanBold40"
@@ -126,7 +126,7 @@ function App() {
           محسوبة العناصر الغذائية
         </div>
       </div>
-      <div className="flex flex-col items-center justify-start pt-[115%] pr-[15%] md:gap-10">
+      <div className="flex flex-col items-center justify-start pt-[116%] pr-[15%] md:gap-10">
         <div
           className="md:text-[38px] text-[11px] text-right text-white-A700 w-full"
           size="txtHarmattanBold40"
