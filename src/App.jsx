@@ -64,7 +64,7 @@ function App() {
       </h2>
       <div className="flex px-5">
         <span
-          className="text-2xl md:text-8xl flex flex-col md:gap-8 text-center text-white-A700 pt-[10%]"
+          className="text-2xl md:text-8xl flex flex-col md:gap-8 text-center text-white-A700 pt-[15%]"
           size="txtHarmattanRegular96"
         >
           <span className="text-white-A700 font-harmattan font-bold">
@@ -73,7 +73,7 @@ function App() {
 
           <span className="text-white-A700 font-harmattan font-bold">وقت</span>
         </span>
-        <span className="mt-[10%] mr-[5%] md:text-5xl text-[11px]  text-right text-white-A700_99 md:tracking-[0.50px]">
+        <span className="mt-[15%] mr-[5%] md:text-5xl text-[11px]  text-right text-white-A700_99 md:tracking-[0.50px]">
           من اول لحضة تقوم فيها بتثبيت التطبيق <br />
           يقوم مدربك الشخصي بتوجيهك وتحديد افضل <br />
           الطرق واسرعها واكثرها ملائمة لك حسب مستواك وهدفك مع المتابعة اليومية
@@ -102,7 +102,7 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="md:pt-[25%] md:pr-[20%] pr-[18%] flex flex-col gap-1 mt-[16%] ">
+      <div className="md:pt-[30%] md:pr-[18%] pr-[18%] md:gap-5 flex flex-col gap-1 mt-[16%] ">
         <div
           className="md:right-[11%] md:text-[38px] text-[11px] text-right text-white-A700 "
           size="txtHarmattanBold40"
