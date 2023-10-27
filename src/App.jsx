@@ -14,7 +14,7 @@ function App() {
           شخصي مجانا
         </h2>
       </div>
-      <h2 className="text-xl md:pt-[200px]  md:text-8xl text-center pt-[5%] text-white-A700">
+      <h2 className="text-xl md:pt-[200px] md:text-8xl text-center pt-[5%] text-white-A700">
         ثبت التطبيق الان مجانا
       </h2>
 
@@ -33,7 +33,7 @@ function App() {
         </span>
       </p>
 
-      <div className="grid grid-cols-4 font-poppins md:gap-16 gap-5 justify-between md:pt-[200px] pt-[13%] w-full px-[5%]">
+      <div className="grid grid-cols-4 font-poppins md:gap-16 gap-5 justify-between md:pt-[16%] pt-[13%] w-full px-[5%]">
         <span
           className="text-[11px] md:text-[24px] text-center text-white-A700_87"
           size="txtPoppinsRegular24"
@@ -59,7 +59,7 @@ function App() {
           انظمة غذائية متنوعه / كيتو / لوكارب /صيام متقطع ...
         </span>
       </div>
-      <h2 className="text-xl md:pt-[130px]  md:text-8xl text-center pt-10 text-white-A700">
+      <h2 className="text-xl md:pt-[130px]  md:text-8xl text-center  text-white-A700">
         ثبت التطبيق الان مجانا
       </h2>
       <div className="flex px-2">
@@ -76,25 +76,45 @@ function App() {
           الطرق واسرعها واكثرها ملائمة لك حسب مستواك وهدفك مع المتابعة اليومية
         </span>
       </div>
-      <div className="flex flex-col md:gap-[9px] justify-start md:mt-0 md:pt-[1600px] pt-[112%] w-[52%] ">
-        <div className="md:h-[45px]  ml-[2%] relative w-[72%]">
+      <div className="md:mt-[90%] mt-[88%]">
+        <div
+          className="inset-x-[0] mx-auto md:text-5xl text-[11px] md:text-[44px] text-center text-white-A700  w-full"
+          size="txtHarmattanBold48"
+        >
+          حساب القيم الغذائية المناسبه لك باشراف المدرب الشخص
+        </div>
+        <div
+          className="bottom-[0] inset-x-[0] mx-auto md:text-5xl text-[11px] md:text-[44px] text-center text-white-A700 w-full"
+          size="txtHarmattanBold48"
+        >
+          مصممة حسب هدفك ومتغيرة حسب تقدمك{" "}
+        </div>
+        <div
+          className="md:text-4xl text-[11px] text-center text-white-A700 top-[0]"
+          size="txtHarmattanBold36"
+        >
+          السعرات الحرارية{" "}
+        </div>
+      </div>
+      <div className="flex flex-col md:gap-[9px] justify-start md:pt-[15%] pt-[8%] w-[52%] ">
+        <div className="md:h-[45px] ml-[2%] relative w-[72%]">
           <p className="inset-x-[0] mx-auto text-4xl text-[11px] md:text-[34px] text-right text-white-A700 w-max">
             <div>جداول تدريب في الجيم مخصصه</div>
-            <div className="-mt-5 md:mt-0">مشروحة بالفيديو</div>
+            <div className="-mt-6 md:mt-0">مشروحة بالفيديو</div>
           </p>
         </div>
-        <div className="flex flex-col items-start justify-start w-full">
-          <div className="md:h-[46px]  ml-[20%] md:mt-[137px] relative w-[72%]">
+        <div className="flex flex-col md:mt-4 mt-2 items-start justify-start w-full">
+          <div className="md:h-[46px] ml-[20%] md:mt-[137px] relative w-[72%]">
             <p className="md:pt-8 mx-auto text-4xl text-[11px] md:text-[34px] text-right text-white-A700 w-max">
               <div>جداول تدريبية في المنزل مخصصة</div>
-              <div className="-mt-5 md:mt-0">حسب مستواك وهدفك</div>
+              <div className="-mt-6 md:mt-0">حسب مستواك وهدفك</div>
             </p>
           </div>
-          <p className=" md:mt-4 mt-2 text-4xl text-[11px] md:text-[34px] text-right text-white-A700"></p>
-          <div className="md:h-[45px] ml-[2%] relative w-[72%]">
+          <p className=" md:mt-4 text-4xl text-[8px] md:text-[34px] text-right text-white-A700"></p>
+          <div className="md:h-[45px] ml-[2%] mt-2 relative w-[72%]">
             <p className="md:pt-[200px] inset-x-[0] mx-auto text-4xl text-[11px] md:text-[34px] text-right text-white-A700 w-max">
               <div>خصص جدولك التدريبي بنفسك</div>
-              <div className="-mt-5 md:mt-0">مع مكتبه ضخمه من التمارين</div>
+              <div className="-mt-6 md:mt-0">مع مكتبه ضخمه من التمارين</div>
             </p>
           </div>
         </div>
@@ -123,7 +143,10 @@ function App() {
           محسوبة العناصر الغذائية
         </div>
       </div>
-      <div className="flex flex-col items-center justify-start pt-[115%] pr-[15%] md:gap-10">
+      <h2 className="text-xl md:pt-[53%]  md:text-8xl text-center pt-[50%] text-white-A700">
+        ثبت التطبيق الان مجانا
+      </h2>
+      <div className="flex flex-col items-center justify-start pt-[57%] pr-[15%] md:gap-10">
         <div
           className="md:text-[38px] text-[11px] text-right text-white-A700 w-full"
           size="txtHarmattanBold40"
@@ -143,6 +166,9 @@ function App() {
           راقب تقدم اوزانك في التدريب واحسب تطور الوزن في كل جلسة
         </div>
       </div>
+      <h2 className="text-xl md:pt-[23%]  md:text-8xl text-center pt-[30%] text-white-A700">
+        ثبت التطبيق الان مجانا
+      </h2>
     </div>
   );
 }
