@@ -2,7 +2,7 @@ function App() {
   return (
     <div>
       <img src="/images/Frame-min.png" alt="Figma" className="absolute -z-10" />
-      <h1 className="pt-[50px] pr-[110px] md:pr-[450px] md:pt-[16%] m-auto text-5xl md:text-[170px] text-center text-white-A700_ab">
+      <h1 className="pt-[50px] pr-[110px] md:pr-[450px] md:pt-[12%] m-auto text-5xl md:text-[170px] text-center text-white-A700_ab">
         تطبيق المدرب <br />
         الشخص
       </h1>
@@ -14,12 +14,12 @@ function App() {
           شخصي مجانا
         </h2>
       </div>
-      <h2 className="text-xl md:pt-[200px] md:text-8xl text-center pt-[5%] text-white-A700">
+      <h2 className="text-xl md:pt-[16%] md:text-8xl text-center pt-[5%] text-white-A700">
         ثبت التطبيق الان مجانا
       </h2>
 
       <p
-        className="mx-auto text-[17px] md:text-[60px] text-center text-white-A700 md:pt-[820px] pt-[62%]"
+        className="mx-auto text-[17px] md:text-[60px] text-center text-white-A700 md:pt-[62%] pt-[62%]"
         size="txtHarmattanBold70"
       >
         <span className="text-white-A700 font-harmattan font-bold">
