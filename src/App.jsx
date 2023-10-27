@@ -14,12 +14,12 @@ function App() {
           شخصي مجانا
         </h2>
       </div>
-      <h2 className="text-xl md:pt-[200px]  md:text-8xl text-center pt-[12%] text-white-A700">
+      <h2 className="text-xl md:pt-[200px]  md:text-8xl text-center pt-[5%] text-white-A700">
         ثبت التطبيق الان مجانا
       </h2>
 
       <p
-        className="mx-auto text-[17px] md:text-[60px] text-center text-white-A700 md:pt-[820px] pt-[63%]"
+        className="mx-auto text-[17px] md:text-[60px] text-center text-white-A700 md:pt-[820px] pt-[62%]"
         size="txtHarmattanBold70"
       >
         <span className="text-white-A700 font-harmattan font-bold">
