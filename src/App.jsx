@@ -102,45 +102,45 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="md:pt-[48%] md:pr-[20%] pr-[18%] flex flex-col md:gap-10 gap-1 mt-[23%]">
+      <div className="md:pt-[25%] md:pr-[20%] pr-[18%] flex flex-col gap-1 mt-[23%] ">
         <div
-          className=" md:leading-[170.00px] md:right-[11%] md:text-[38px] text-[11px] text-right text-white-A700  md:tracking-[-2.00px]"
+          className="md:right-[11%] md:text-[38px] text-[11px] text-right text-white-A700 "
           size="txtHarmattanBold40"
         >
           جميع الانظمة الغذائية التي تخطر على بالك
         </div>
         <div
-          className="md:leading-[170.00px] md:mt-9 md:text-[38px] text-[11px] text-right text-white-A700 md:tracking-[-2.00px] "
+          className="md:text-[38px] text-[11px] text-right text-white-A700 "
           size="txtHarmattanBold40"
         >
           كيتو / اعتيادي / لوكارب / بدون حرمان
         </div>
-        <div className=" md:leading-[170.00px] md:right-[18%] md:text-[38px] text-[11px] text-right text-white-A700 top-[23%] md:tracking-[-2.00px]">
+        <div className="  md:right-[18%] md:text-[38px] text-[11px] text-right text-white-A700 top-[23%]">
           مكتبه ضخمة لجميع المواد الغذئية{" "}
         </div>
 
         <div
-          className="md:leading-[170.00px] md:text-[38px] text-[11px] text-right text-white-A700 top-[34%] md:tracking-[-2.00px]"
+          className="md:text-[38px] text-[11px] text-right text-white-A700 top-[34%]"
           size="txtHarmattanBold40"
         >
           محسوبة العناصر الغذائية
         </div>
       </div>
-      <div className="flex flex-col items-center justify-start md:pt-[50%] pt-[115%] pr-[15%] md:gap-10">
+      <div className="flex flex-col items-center justify-start pt-[115%] pr-[15%] md:gap-10">
         <div
-          className="md:text-[38px] text-[11px] text-right text-white-A700 md:tracking-[-2.00px] w-full"
+          className="md:text-[38px] text-[11px] text-right text-white-A700 w-full"
           size="txtHarmattanBold40"
         >
           تابع تقدمك واحسب نتائجك واهدافك{" "}
         </div>
         <div
-          className="md:text-[38px] text-[11px] text-right text-white-A700 md:tracking-[-2.00px] w-full"
+          className="md:text-[38px] text-[11px] text-right text-white-A700 w-full"
           size="txtHarmattanBold40"
         >
           شاهد تقدمك ومستواك عبر الاحصائيات اليوميه والشهريه
         </div>
         <div
-          className="text-xl md:text-[38px] text-[11px] text-right text-white-A700 md:tracking-[-2.00px] w-full"
+          className="text-xl md:text-[38px] text-[11px] text-right text-white-A700 w-full"
           size="txtHarmattanBold40"
         >
           راقب تقدم اوزانك في التدريب واحسب تطور الوزن في كل جلسة
