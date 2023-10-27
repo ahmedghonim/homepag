@@ -2,7 +2,7 @@ function App() {
   return (
     <div>
       <img src="/images/Frame.png" alt="Figma" className="absolute -z-10" />
-      <h1 className="md:leading-[170.00px] pt-[50px] pr-[110px] md:pr-[450px] md:pt-[190px] m-auto text-5xl md:text-[170px] text-center text-white-A700_ab">
+      <h1 className="pt-[50px] pr-[110px] md:pr-[450px] md:pt-[190px] m-auto text-5xl md:text-[170px] text-center text-white-A700_ab">
         تطبيق المدرب <br />
         الشخص
       </h1>
@@ -126,21 +126,21 @@ function App() {
           محسوبة العناصر الغذائية
         </div>
       </div>
-      <div className="flex flex-col items-center justify-start pt-[115%] pr-[15%] md:gap-10">
+      <div className="flex flex-col items-center justify-start md:pt-[50%] pt-[115%] pr-[15%] md:gap-10">
         <div
-          className="md:leading-[170.00px] md:text-[38px] text-[11px] text-right text-white-A700 md:tracking-[-2.00px] w-full"
+          className="md:text-[38px] text-[11px] text-right text-white-A700 md:tracking-[-2.00px] w-full"
           size="txtHarmattanBold40"
         >
           تابع تقدمك واحسب نتائجك واهدافك{" "}
         </div>
         <div
-          className="md:leading-[170.00px] md:text-[38px] text-[11px] text-right text-white-A700 md:tracking-[-2.00px] w-full"
+          className="md:text-[38px] text-[11px] text-right text-white-A700 md:tracking-[-2.00px] w-full"
           size="txtHarmattanBold40"
         >
           شاهد تقدمك ومستواك عبر الاحصائيات اليوميه والشهريه
         </div>
         <div
-          className="md:leading-[170.00px] text-xl md:text-[38px] text-[11px] text-right text-white-A700 md:tracking-[-2.00px] w-full"
+          className="text-xl md:text-[38px] text-[11px] text-right text-white-A700 md:tracking-[-2.00px] w-full"
           size="txtHarmattanBold40"
         >
           راقب تقدم اوزانك في التدريب واحسب تطور الوزن في كل جلسة
