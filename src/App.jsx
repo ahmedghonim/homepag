@@ -20,7 +20,17 @@ function App() {
       </section>
       {/* social  */}
       <div className="text-center flex flex-col items-center mt-[5%] animate__animated animate__backInRight">
-        <img src="socail-min.png" alt="" className="w-2/3 mx-auto" />
+        <div className="w-2/3 mx-auto relative">
+          <img src="socail-min.png" />
+          <a
+            href="https://play.google.com/store/apps/details?id=com.kmm.untitled1"
+            className="absolute top-0 left-[10%] w-[24%]  h-[100%]"
+          ></a>
+          <a
+            href="https://apps.apple.com/sa/app/%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A-%D8%AE%D8%B7%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%88%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9/id1594660397?l=ar?l=ar"
+            className="absolute top-0 right-[38%] w-[24%]  h-[100%]"
+          ></a>
+        </div>
         <h2 className="text-xl md:text-8xl text-center  text-white-A700">
           ثبت التطبيق الان مجانا
         </h2>
@@ -48,7 +58,17 @@ function App() {
 
       <AnimationOnScroll animateOnce={true} animateIn="animate__backInUp">
         <div className="text-center flex flex-col items-center mt-[5%]">
-          <img src="socail-min.png" alt="" className="w-2/3 mx-auto" />
+          <div className="w-2/3 mx-auto relative">
+            <img src="socail-min.png" />
+            <a
+              href="https://play.google.com/store/apps/details?id=com.kmm.untitled1"
+              className="absolute top-0 left-[10%] w-[24%]  h-[100%]"
+            ></a>
+            <a
+              href="https://apps.apple.com/sa/app/%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A-%D8%AE%D8%B7%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%88%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9/id1594660397?l=ar?l=ar"
+              className="absolute top-0 right-[38%] w-[24%]  h-[100%]"
+            ></a>
+          </div>
           <h2 className="text-xl md:text-8xl text-center  text-white-A700">
             ثبت التطبيق الان مجانا
           </h2>
@@ -158,7 +178,17 @@ function App() {
         animateIn="animate__lightSpeedInDown"
       >
         <div className="text-center flex flex-col items-center mt-[10%] lg:mt-[20%]">
-          <img src="socail-min.png" alt="" className="w-2/3 mx-auto" />
+          <div className="w-2/3 mx-auto relative">
+            <img src="socail-min.png" />
+            <a
+              href="https://play.google.com/store/apps/details?id=com.kmm.untitled1"
+              className="absolute top-0 left-[10%] w-[24%]  h-[100%]"
+            ></a>
+            <a
+              href="https://apps.apple.com/sa/app/%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A-%D8%AE%D8%B7%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%88%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9/id1594660397?l=ar?l=ar"
+              className="absolute top-0 right-[38%] w-[24%]  h-[100%]"
+            ></a>
+          </div>
           <h2 className="text-xl md:text-8xl text-center  text-white-A700">
             ثبت التطبيق الان مجانا
           </h2>
@@ -200,7 +230,17 @@ function App() {
         animateIn="animate__lightSpeedInRight"
       >
         <div className="text-center flex flex-col items-center mt-[45%]">
-          <img src="socail-min.png" alt="" className="w-2/3 mx-auto" />
+          <div className="w-2/3 mx-auto relative">
+            <img src="socail-min.png" />
+            <a
+              href="https://play.google.com/store/apps/details?id=com.kmm.untitled1"
+              className="absolute top-0 left-[10%] w-[24%]  h-[100%]"
+            ></a>
+            <a
+              href="https://apps.apple.com/sa/app/%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A-%D8%AE%D8%B7%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%88%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9/id1594660397?l=ar?l=ar"
+              className="absolute top-0 right-[38%] w-[24%]  h-[100%]"
+            ></a>
+          </div>
           <h2 className="text-xl md:text-8xl text-center  text-white-A700">
             ثبت التطبيق الان مجانا
           </h2>
@@ -238,7 +278,17 @@ function App() {
 
       <AnimationOnScroll animateOnce={true} animateIn="animate__bounceIn">
         <div className="text-center flex flex-col items-center mt-[20%]">
-          <img src="socail-min.png" alt="" className="w-2/3 mx-auto" />
+          <div className="w-2/3 mx-auto relative">
+            <img src="socail-min.png" />
+            <a
+              href="https://play.google.com/store/apps/details?id=com.kmm.untitled1"
+              className="absolute top-0 left-[10%] w-[24%]  h-[100%]"
+            ></a>
+            <a
+              href="https://apps.apple.com/sa/app/%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A-%D8%AE%D8%B7%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%88%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9/id1594660397?l=ar?l=ar"
+              className="absolute top-0 right-[38%] w-[24%]  h-[100%]"
+            ></a>
+          </div>
           <h2 className="text-xl md:text-8xl text-center  text-white-A700">
             ثبت التطبيق الان مجانا
           </h2>
