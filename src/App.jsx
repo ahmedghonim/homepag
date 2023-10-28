@@ -23,10 +23,14 @@ function App() {
         <div className="w-2/3 mx-auto relative">
           <img src="socail-min.png" alt="" />
           <a
+            target="_blank"
+            rel="noreferrer"
             href="https://apps.apple.com/sa/app/%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A-%D8%AE%D8%B7%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%88%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9/id1594660397?l=ar?l=ar"
-            className="absolute  top-0 left-[12%] w-[34%]  h-[100%] text-[100000px]"
+            className="absolute  top-0 left-[12%] w-[34%]  h-[100%]"
           ></a>
           <a
+            target="_blank"
+            rel="noreferrer"
             href="https://play.google.com/store/apps/details?id=com.kmm.untitled1"
             className="absolute cursor-pointer top-0 right-[16%] w-[34%] h-[100%] "
           ></a>
@@ -61,10 +65,14 @@ function App() {
           <div className="w-2/3 mx-auto relative">
             <img src="socail-min.png" alt="" />
             <a
+              target="_blank"
+              rel="noreferrer"
               href="https://apps.apple.com/sa/app/%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A-%D8%AE%D8%B7%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%88%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9/id1594660397?l=ar?l=ar"
-              className="absolute  top-0 left-[12%] w-[34%]  h-[100%] text-[100000px]"
+              className="absolute  top-0 left-[12%] w-[34%]  h-[100%]"
             ></a>
             <a
+              target="_blank"
+              rel="noreferrer"
               href="https://play.google.com/store/apps/details?id=com.kmm.untitled1"
               className="absolute cursor-pointer top-0 right-[16%] w-[34%] h-[100%] "
             ></a>
@@ -181,10 +189,14 @@ function App() {
           <div className="w-2/3 mx-auto relative">
             <img src="socail-min.png" alt="" />
             <a
+              target="_blank"
+              rel="noreferrer"
               href="https://apps.apple.com/sa/app/%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A-%D8%AE%D8%B7%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%88%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9/id1594660397?l=ar?l=ar"
-              className="absolute  top-0 left-[12%] w-[34%]  h-[100%] text-[100000px]"
+              className="absolute  top-0 left-[12%] w-[34%]  h-[100%]"
             ></a>
             <a
+              target="_blank"
+              rel="noreferrer"
               href="https://play.google.com/store/apps/details?id=com.kmm.untitled1"
               className="absolute cursor-pointer top-0 right-[16%] w-[34%] h-[100%] "
             ></a>
@@ -233,10 +245,14 @@ function App() {
           <div className="w-2/3 mx-auto relative">
             <img src="socail-min.png" alt="" />
             <a
+              target="_blank"
+              rel="noreferrer"
               href="https://apps.apple.com/sa/app/%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A-%D8%AE%D8%B7%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%88%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9/id1594660397?l=ar?l=ar"
-              className="absolute  top-0 left-[12%] w-[34%]  h-[100%] text-[100000px]"
+              className="absolute  top-0 left-[12%] w-[34%]  h-[100%]"
             ></a>
             <a
+              target="_blank"
+              rel="noreferrer"
               href="https://play.google.com/store/apps/details?id=com.kmm.untitled1"
               className="absolute cursor-pointer top-0 right-[16%] w-[34%] h-[100%] "
             ></a>
@@ -281,10 +297,14 @@ function App() {
           <div className="w-2/3 mx-auto relative">
             <img src="socail-min.png" alt="" />
             <a
+              target="_blank"
+              rel="noreferrer"
               href="https://apps.apple.com/sa/app/%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A-%D8%AE%D8%B7%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%88%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9/id1594660397?l=ar?l=ar"
-              className="absolute  top-0 left-[12%] w-[34%]  h-[100%] text-[100000px]"
+              className="absolute  top-0 left-[12%] w-[34%]  h-[100%]"
             ></a>
             <a
+              target="_blank"
+              rel="noreferrer"
               href="https://play.google.com/store/apps/details?id=com.kmm.untitled1"
               className="absolute cursor-pointer top-0 right-[16%] w-[34%] h-[100%] "
             ></a>
