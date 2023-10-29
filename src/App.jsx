@@ -1,5 +1,5 @@
 import "animate.css";
-import { Lines } from 'react-preloaders';
+// import { Lines } from 'react-preloaders';
 
 function App() {
   return (
@@ -278,7 +278,7 @@ function App() {
           </h2>
         </div>
 
-        <Lines />
+        {/* <Lines /> */}
     </div>
   );
 }
