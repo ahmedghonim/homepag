@@ -39,11 +39,8 @@ function App() {
           ثبت التطبيق الان مجانا
         </h2>
       </div>
-      <AnimationOnScroll animateOnce={true} animateIn="animate__bounceIn">
-        <img src="/phones-min.png" className="-mt-[10%]" />
-      </AnimationOnScroll>
-      <AnimationOnScroll animateOnce={true} animateIn="animate__backInDown">
-        <section className="relative md:-mt-36 -mt-10">
+        <img src="/phones-min.png" className="-mt-[10%] animate__animated animate__bounceIn" />
+        <section className="relative md:-mt-36 -mt-10 animate__animated animate__backInDown">
           <img
             className="absolute -top-[95%] left-[7%] -z-10 w-[40%]"
             src="/yellwo-min.png"
@@ -58,10 +55,8 @@ function App() {
             </span>
           </p>
         </section>
-      </AnimationOnScroll>
 
-      <AnimationOnScroll animateOnce={true} animateIn="animate__backInUp">
-        <div className="text-center flex flex-col items-center mt-[5%]">
+        <div className="text-center flex flex-col items-center mt-[5%] animate__animated animate__backInUp">
           <div className="w-2/3 mx-auto relative">
             <img src="socail-min.png" alt="" />
             <a
@@ -81,12 +76,7 @@ function App() {
             ثبت التطبيق الان مجانا
           </h2>
         </div>
-      </AnimationOnScroll>
-      <AnimationOnScroll
-        animateOnce={true}
-        animateIn="animate__lightSpeedInRight"
-      >
-        <section className="relative mt-10 h-fit">
+        <section className="relative mt-10 h-fit animate__animated animate__lightSpeedInRight">
           <img src="/fllow-min.png" alt="" className="absolute top-0" />
           <div className="grid grid-cols-2 gap-5 w-[95%]">
             <span className="text-2xl md:text-8xl flex flex-col md:gap-8 text-center mt-[5%] text-white-A700">
@@ -110,13 +100,8 @@ function App() {
             </span>
           </div>
         </section>
-      </AnimationOnScroll>
 
-      <AnimationOnScroll
-        animateOnce={true}
-        animateIn="animate__lightSpeedInLeft"
-      >
-        <section className="relative mt-[55%]">
+        <section className="relative mt-[55%] animate__animated animate__lightSpeedInLeft">
           <img
             src="/persentage-min.png"
             className="absolute right-0 left-0 w-full -z-10"
@@ -140,10 +125,8 @@ function App() {
             السعرات الحرارية{" "}
           </div>
         </section>
-      </AnimationOnScroll>
 
-      <AnimationOnScroll animateOnce={true} animateIn="animate__bounceIn">
-        <section className="relative">
+        <section className="relative animate__animated animate__bounceIn">
           <img
             src="/rightleft-min.png"
             className="absolute w-[97%] right-0 -z-10"
@@ -179,13 +162,8 @@ function App() {
             </p>
           </div>
         </section>
-      </AnimationOnScroll>
 
-      <AnimationOnScroll
-        animateOnce={true}
-        animateIn="animate__lightSpeedInDown"
-      >
-        <div className="text-center flex flex-col items-center mt-[10%] lg:mt-[20%]">
+        <div className="text-center flex flex-col items-center mt-[10%] lg:mt-[20%] animate__animated animate__lightSpeedInDown">
           <div className="w-2/3 mx-auto relative">
             <img src="socail-min.png" alt="" />
             <a
@@ -205,10 +183,8 @@ function App() {
             ثبت التطبيق الان مجانا
           </h2>
         </div>
-      </AnimationOnScroll>
 
-      <AnimationOnScroll animateOnce={true} animateIn="animate__lightSpeedInUp">
-        <section className="-mt-[15%]">
+        <section className="-mt-[15%] animate__animated animate__lightSpeedInUp">
           <img src="/food-min.png" className="w-full absolute -z-10" />
           <div className="pt-[25%] pr-[12%] md:gap-5 flex flex-col gap-1 ">
             <div
@@ -235,13 +211,8 @@ function App() {
             </div>
           </div>
         </section>
-      </AnimationOnScroll>
 
-      <AnimationOnScroll
-        animateOnce={true}
-        animateIn="animate__lightSpeedInRight"
-      >
-        <div className="text-center flex flex-col items-center mt-[45%]">
+        <div className="text-center flex flex-col items-center mt-[45%] animate__animated animate__lightSpeedInRight">
           <div className="w-2/3 mx-auto relative">
             <img src="socail-min.png" alt="" />
             <a
@@ -261,13 +232,8 @@ function App() {
             ثبت التطبيق الان مجانا
           </h2>
         </div>
-      </AnimationOnScroll>
 
-      <AnimationOnScroll
-        animateOnce={true}
-        animateIn="animate__lightSpeedInLeft"
-      >
-        <section className="relative -mt-[10%]">
+        <section className="relative -mt-[10%] animate__animated animate__lightSpeedInLeft">
           <img src="/Component_7-min.png" className="absolute w-full -z-10" />
           <div className="flex flex-col items-center justify-start pt-[70%] pr-[15%] md:gap-10">
             <div
@@ -290,10 +256,8 @@ function App() {
             </div>
           </div>
         </section>
-      </AnimationOnScroll>
 
-      <AnimationOnScroll animateOnce={true} animateIn="animate__bounceIn">
-        <div className="text-center flex flex-col items-center mt-[20%]">
+        <div className="text-center flex flex-col items-center mt-[20%] animate__animated animate__bounceIn">
           <div className="w-2/3 mx-auto relative">
             <img src="socail-min.png" alt="" />
             <a
@@ -313,7 +277,6 @@ function App() {
             ثبت التطبيق الان مجانا
           </h2>
         </div>
-      </AnimationOnScroll>
     </div>
   );
 }
