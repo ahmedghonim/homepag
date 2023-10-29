@@ -19,7 +19,7 @@ function App() {
         </div>
       </section>
       {/* social  */}
-      <div className="text-center flex flex-col items-center mt-[5%] animate__animated animate__backInRight">
+      <div className="text-center flex flex-col items-center mt-[5%] animate__animated animate__backInLeft">
         <div className="w-2/3 mx-auto relative">
           <img src="socail-min.png" alt="" />
           <a
@@ -76,7 +76,7 @@ function App() {
             ثبت التطبيق الان مجانا
           </h2>
         </div>
-        <section className="relative mt-10 h-fit animate__animated animate__lightSpeedInRight">
+        <section className="relative mt-10 h-fit animate__animated animate__lightSpeedInLeft">
           <img src="/fllow-min.png" alt="" className="absolute top-0" />
           <div className="grid grid-cols-2 gap-5 w-[95%]">
             <span className="text-2xl md:text-8xl flex flex-col md:gap-8 text-center mt-[5%] text-white-A700">
@@ -212,7 +212,7 @@ function App() {
           </div>
         </section>
 
-        <div className="text-center flex flex-col items-center mt-[45%] animate__animated animate__lightSpeedInRight">
+        <div className="text-center flex flex-col items-center mt-[45%] animate__animated animate__lightSpeedInLeft">
           <div className="w-2/3 mx-auto relative">
             <img src="socail-min.png" alt="" />
             <a
