@@ -1,5 +1,5 @@
 import "animate.css";
-import { AnimationOnScroll } from "react-animation-on-scroll";
+import { Lines } from 'react-preloaders';
 
 function App() {
   return (
@@ -277,6 +277,8 @@ function App() {
             ثبت التطبيق الان مجانا
           </h2>
         </div>
+
+        <Lines />
     </div>
   );
 }
