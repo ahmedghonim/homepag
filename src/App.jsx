@@ -7,7 +7,7 @@ function App() {
       {/* Hero Section */}
       <section className="relative animate__animated animate__backInLeft">
         <img src="/hero-min.png" alt="" className="absolute top-0 -z-10" />
-        <div className="md:pt-[12%] lg:pt-[10%] pr-[43%] lg:pr-[52%]">
+        <div className="pt-[12%] lg:pt-[10%] pr-[43%] lg:pr-[52%]">
           <h1 className=" text-5xl md:text-[170px] text-center text-white-A700_ab">
             تطبيق المدرب <br />
             الشخص
